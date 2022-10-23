@@ -1,0 +1,49 @@
+.checkboxs {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 40px ;
+}
+
+.table-info{
+  background-color: #48BEFF !important;
+}
+
+.table-secondary{
+  background-color: #3DFAFF !important;
+}
+
+.table-success{
+  background-color: #43C59E !important;
+}
+
+.table-warning{
+  background-color: #3D7068 !important;
+}
+
+.table-danger{
+  background-color: #14453D !important;
+}
+
+.type0{
+  border-bottom: solid 4px #48BEFF;
+}
+
+.type1{
+  border-bottom: solid 4px #3DFAFF;
+}
+
+.type2{
+  border-bottom: solid 4px #43C59E;
+}
+
+.type3{
+  border-bottom: solid 4px #3D7068;
+}
+
+.type4{
+  border-bottom: solid 4px #14453D;
+}
+
+.table{
+  text-align: center;
+}
